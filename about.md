@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: About Polyhat Software
 permalink: /about/
 ---
-
-### About Polyhat
 
 Polyhat Software are a software consultancy dedicated to the provision of elegant and robust software solutions, in an efficient and value-driven manner.
 
