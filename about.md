@@ -17,4 +17,4 @@ Polyhat are keen to collaborate with organisations and companies driven to engen
 
 ### Get in touch
 
-[info@polyhatsoftware.co.uk](mailto:info@polyhatsoftware.co.uk)
+If you would like to work with us, please get in touch by dropping us an email to: [info@polyhatsoftware.co.uk](mailto:info@polyhatsoftware.co.uk)
