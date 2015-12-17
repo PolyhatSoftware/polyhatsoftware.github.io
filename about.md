@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About Polyhat
 
-### More Information
+Polyhat Software are a software consultancy dedicated to the provision of elegant and robust software solutions, in an efficient and value-driven manner.
 
-A place to include any other types of information that you'd like to include about yourself.
+Leaning on over 14 years of development experience across the whole software development lifecycle, we are committed to code craftmanship, thorough testing, automation, collaboration and focussing on value, to continuously deliver value to our clients. 
 
-### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+### Social Impact
+
+Polyhat are keen to collaborate with organisations and companies driven to engender social change. We would love to hear from such groups, to provide our usual quality services at discounted rates.
+
+### Get in touch
+
+[info@polyhatsoftware.co.uk](mailto:info@polyhatsoftware.co.uk)
