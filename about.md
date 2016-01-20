@@ -6,8 +6,9 @@ permalink: /about/
 
 Polyhat Software are a software consultancy dedicated to the provision of elegant and robust software solutions, in an efficient and value-driven manner.
 
-Leaning on over 14 years of development experience across the whole software development lifecycle, we are committed to code craftmanship, thorough testing, automation, collaboration and focussing on value, to continuously deliver value to our clients. 
+With over 14 years of development experience across the whole software development lifecycle, we are committed to code craftmanship, thorough testing, automation, collaboration, continuous improvement and lean principles, to continuously deliver value to our clients. 
 
+Polyhat currently specialises in C# and javascript, able to develop both server and client -side solutions.
 
 ### Social Impact
 
